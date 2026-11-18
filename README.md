@@ -6,8 +6,7 @@ A consumer electronics retailer sells Smartphones, Audio, and Accessories across
 ---
 
 ## 📊 Dashboard Preview
-![Electronics & Gadgets Retail Profitability Dashboard](images/dashboard_overview.png)
-
+![Electronics & Gadgets Retail Profitability Dashboard](dashboard.png)
 ---
 
 ## 🛠️ Tools & Skills Used
